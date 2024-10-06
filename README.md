@@ -1,6 +1,8 @@
 # RNC-Taskphase 
-''' GIT COMMANDS '''
-'''git init (To initialise the local repository)'''
+##GIT COMMANDS
+
+      git init (To initialise the local repository)
+    
 '''git status (See current status of the the changes)'''
 '''git add --all'''
 '''git commit -am "Comment" (comment is required)'''
